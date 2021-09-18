@@ -1,11 +1,11 @@
-<h1 align="start">Hi 👋, I'm Shrilakshmi</h1>
-<h3 align="start">I am a front-end/mobile dev enthusiast from India.</h3>
+<h1 align="center">Hi 👋, I'm Shrilakshmi</h1>
+<h3 align="center">I am a front-end/mobile dev enthusiast from India.</h3>
 
-- 🔭 I’m currently working on [personal scheduler, sprinkle and more](https://github.com/shrilakshmishastry/personal_schedular)
+- 🔭 I’m currently working on [personal scheduler](https://github.com/shrilakshmishastry/personal_schedular)
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1heGFddIkVrZyMNW6kFBE02qq38holEyH/view?usp=sharing](https://drive.google.com/file/d/1heGFddIkVrZyMNW6kFBE02qq38holEyH/view?usp=sharing)
+- 📄Have a look at my [resume!] (https://drive.google.com/file/d/1heGFddIkVrZyMNW6kFBE02qq38holEyH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
