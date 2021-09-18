@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 📄Have a look at my [resume!] (https://drive.google.com/file/d/1heGFddIkVrZyMNW6kFBE02qq38holEyH/view?usp=sharing)
+- 📄Have a look at my [resume!](https://drive.google.com/file/d/1heGFddIkVrZyMNW6kFBE02qq38holEyH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
