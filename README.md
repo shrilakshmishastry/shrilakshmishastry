@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Shrilakshmi</h1>
 <h3 align="start">I am a front-end/mobile dev enthusiast from India.</h3>
 
-- 🔭 I’m currently working on [personal scheduler](https://github.com/shrilakshmishastry/personal_schedular)
+- 🔭 I’m currently working on [markker](https://github.com/shrilakshmishastry/marker)
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
