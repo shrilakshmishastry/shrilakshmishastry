@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm Shrilakshmi</h1>
 <h3 align="start">I am a front-end/mobile dev enthusiast from India.</h3>
 
-- 🔭 I’m currently learning web accessibility so you can find my experiments here  [accessibility_trials](https://github.com/shrilakshmishastry/accessibility_trials)
+- 🔭 I’m currently building a tool to automate creating design system  [create-design-system](https://github.com/shrilakshmishastry/create-design-system)
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
